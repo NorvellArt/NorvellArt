@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NorvellArt
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Django
 - 📫 How to reach me: 
    - email: NorvellArt@gmail.com
    + instagram: norvellart
